@@ -1,2 +1,4 @@
 dataset/
 wandb/
+heatmap/
+activations/
