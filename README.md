@@ -68,12 +68,11 @@ https://huggingface.co/spaces/immortalPi/Satellite-Segmentaion-Prediction
 ![text](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/2.JPG?raw=true)
 
 ## model
-
+![model](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/satellite_segmentation_full.h5.png)
 ## weights and biases
-
+![wanb](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/wandb.jpg)
 ## hugging face
-
-
+![huggingface](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/huggingFace.JPG)
 
 
 ## Optimizations
@@ -84,5 +83,5 @@ needs Optimizations
 
 cross entropy loss extension
 
-![loss]()
+![loss](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/lossFunction.JPG)
 
