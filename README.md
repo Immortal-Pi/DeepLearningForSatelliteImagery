@@ -39,7 +39,7 @@ https://huggingface.co/spaces/immortalPi/Satellite-Segmentaion-Prediction
 
 #### Weights and biases 
 
-```http
+```https
   https://wandb.ai/26-amruth-immortalpi/satellite-segmentation-dubai-images
 ```
 
@@ -49,7 +49,7 @@ https://huggingface.co/spaces/immortalPi/Satellite-Segmentaion-Prediction
 
 #### hugging Face
 
-```http
+```https
   https://huggingface.co/spaces/immortalPi/Satellite-Segmentaion-Prediction
 ```
 
