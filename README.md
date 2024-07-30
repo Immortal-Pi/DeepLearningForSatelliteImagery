@@ -69,6 +69,7 @@ https://huggingface.co/spaces/immortalPi/Satellite-Segmentaion-Prediction
 
 ## model
 https://netron.app/ (load the model for viz)
+
 ![model](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/satellite_segmentation_full.h5.png)
 ## weights and biases
 ![wanb](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/wandb.jpg)
