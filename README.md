@@ -63,9 +63,9 @@ https://huggingface.co/spaces/immortalPi/Satellite-Segmentaion-Prediction
 # Screenshots
 
 ## objective
-![text](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/Capture.JPG?raw=true)
+![text]([https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/Capture.JPG?raw=true](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/objective1.JPG))
 
-![text](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/2.JPG?raw=true)
+![text]([https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/2.JPG?raw=true](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/objective2.JPG))
 
 ## model
 ![model](https://github.com/amruthpai123/DeepLearningForSatelliteImagery/blob/main/screenshots/satellite_segmentation_full.h5.png)
