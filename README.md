@@ -45,7 +45,7 @@ https://huggingface.co/spaces/immortalPi/Satellite-Segmentaion-Prediction
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | f6696212866a9b097f6468d5cae2901364cf7713 |
+| `api_key` | `string` | f6696212866a9b097f6468d5cae2901364cf**** |
 
 #### hugging Face
 
